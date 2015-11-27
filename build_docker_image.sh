@@ -1,7 +1,7 @@
 #!/bin/bash
 
-default_image_name="aungzy/java"
-default_tag="oracle-jdk7-ubuntu"
+default_image_name="default_image"
+default_tag="1.0"
 default_build_path="."
 
 [[ -z "$1" ]] && image_name="$default_image_name" || image_name="$1"
