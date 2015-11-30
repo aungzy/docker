@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# This script builds docker images from Dockerfile located in $build_path
+#
 
 default_image_name="default_image"
 default_tag="1.0"
