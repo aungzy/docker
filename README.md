@@ -1,2 +1,2 @@
-# docker
-Misc Docker-related scripts
+# misc-scripts
+Misc scripts
