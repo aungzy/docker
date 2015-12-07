@@ -3,6 +3,7 @@
 # Required parameters
 #  1. User name (alphanumeric only)
 #  2. User's ssh public key
+#  3. User Groups
 
 if [ -z "$1" ]; then
   echo "[Error] Argument 1 (username) is required."
